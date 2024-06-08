@@ -1,8 +1,10 @@
 Project Title: ShopCart
-Technologies Used: HTML, CSS, JavaScript, Bootstrap
-Project Overview
-ShopCart is a dynamic and responsive e-commerce website designed to offer a seamless shopping experience for users. This project aims to create an intuitive online platform where customers can browse, search, and purchase a wide range of products, from electronics to fashion, easily and securely.
 
+Technologies Used: HTML, CSS, JavaScript, Bootstrap
+
+Project Overview:
+
+ShopCart is a dynamic and responsive e-commerce website designed to offer a seamless shopping experience for users. This project aims to create an intuitive online platform where customers can browse, search, and purchase a wide range of products, from electronics to fashion, easily and securely.
 The website will be developed using HTML, CSS, JavaScript, and Bootstrap to ensure a modern, user-friendly interface that is both aesthetically pleasing and functional. The primary objective is to provide an engaging user experience while maintaining high performance and accessibility across various devices.
 
 Key Features
